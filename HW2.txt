@@ -1,0 +1,18 @@
+Git (Yellow)
+        git config --global user.email "your_email@example.com" – Sets up your Git email
+        git config --global user.name "Your Name" – Sets up your Git username
+        git clone repository_url – Clones the GitHub repository onto your local machine
+        git status – Shows the status of the repository (modified, new, and staged files)
+        git add filename – Stages a file for commit
+        git commit -m "commit message" – Commits the staged changes with a message
+        git push repository_url – Pushes the committed changes to GitHub
+
+Collab Rules
+        "You can discuss your ideas with your class mates for homework assignments. Howev>
+External References Rules
+        "You are welcome to use concepts that were not covered in class, which you might >
+Late Assignments Panelty
+        "Late assignments will be accepted; however, there will be a penalty of 10% per d>
+Missing Classes Penalty
+        "Students are expected to attend class. In addition to lectures discussing new ma>
+
